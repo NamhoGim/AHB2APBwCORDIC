@@ -1,0 +1,161 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\cygwin64\home\admin\AMBA\AHB2APBbridge
+vAHB2APB
+!i10b 1
+Z1 !s100 IVZ5BGRnC:N1m^]?RVV3B1
+Z2 Ij;ba1=C]iIZIYaiV3dzd12
+Z3 VRH4`DN2L?knHXF=I=kcO32
+Z4 dC:\cygwin64\home\admin\AMBA\AHB2APBbridge
+Z5 w1433906298
+Z6 8AHB2APB.v
+Z7 FAHB2APB.v
+L0 35
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z9 !s108 1433882883.810000
+Z10 !s107 ahb_control_signals.vh|APB.v|apb_sram.v|cordic_top_2.v|apb_interface.v|SRAM.v|APB_addr_decoder.v|AHB2APB.v|tb_ahb_lite.v|
+Z11 !s90 -work|work|-f|list.args|
+!s101 -O0
+Z12 o-work work -O0
+Z13 n@a@h@b2@a@p@b
+vAPB
+!i10b 1
+Z14 !s100 2UR92d9z>dk<HPJ@3d;E51
+Z15 I1W1mo<Hj2e@2]?TeUkFCb2
+Z16 VVzTQPI[NhaAR[Cn_0MkXM1
+R4
+Z17 w1433900108
+Z18 8APB.v
+Z19 FAPB.v
+L0 33
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+Z20 n@a@p@b
+vAPB_addr_decoder
+!i10b 1
+Z21 !s100 E4>16MS]7[MBIJQB]BkCX2
+Z22 I0??lKM::lS55EdDUlLESA3
+Z23 V]ha13HXcU=gJaQ?UP;E0[2
+R4
+Z24 w1433900612
+Z25 8APB_addr_decoder.v
+Z26 FAPB_addr_decoder.v
+L0 60
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+Z27 n@a@p@b_addr_decoder
+vapb_interface
+!i10b 1
+Z28 !s100 mm2;`FINU:UH5^>`F=OFX1
+Z29 IS?cEYMS8TWOC?aHREcFJF2
+Z30 VJl1cES<;j9>`_?J56;KSl0
+R4
+Z31 w1433911126
+Z32 8apb_interface.v
+Z33 Fapb_interface.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+vapb_sram
+!i10b 1
+Z34 !s100 R?oOVc^LhXh1JI_4N<eVV3
+Z35 IYM?Nez:EEPlCCWdLB446X0
+Z36 VWaMKHCTVLBTAf]D<ALeCo1
+R4
+Z37 w1433598175
+Z38 8apb_sram.v
+Z39 Fapb_sram.v
+L0 28
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+vcordic_top
+!i10b 1
+Z40 !s100 76FDIKOa]ObC:=gU>LMmI3
+Z41 IC?NBRf3BX]Ebad=X_NgoX0
+Z42 Vk@:=oI^:I^lPD`RYXAH;]3
+R4
+Z43 w1433909098
+Z44 8cordic_top_2.v
+Z45 Fcordic_top_2.v
+L0 33
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+vSRAM
+!i10b 1
+Z46 !s100 kTVXo_mjb5lM]em8XhWTa3
+Z47 I;B2=>G^fncDfnhO514@1e3
+Z48 VR9PhQ=R@2V^dcX@nTN]QJ1
+R4
+Z49 w1432889545
+Z50 8SRAM.v
+Z51 FSRAM.v
+L0 29
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+Z52 n@s@r@a@m
+vtb_ahb_lite
+!i10b 1
+!s100 PVM_AI:ZS_@@bT]_mF^hf1
+IPIAn82EdXngJa>bnze2^o0
+Z53 V1MCJ@I2on[^6UT2La5G_Z3
+R4
+w1433911677
+Z54 8tb_ahb_lite.v
+Z55 Ftb_ahb_lite.v
+L0 36
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12

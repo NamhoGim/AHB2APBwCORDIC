@@ -1,0 +1,44 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\cygwin64\home\admin\spislv
+vSPI_SLAVE
+!i10b 1
+Z1 !s100 ;U9WLeoQKP;TogW^M5H^b1
+Z2 I_KB6F52H?iESzU:@77hfC2
+Z3 V4b7P:]:AD3aIClnOcDcHX0
+Z4 dC:\cygwin64\home\admin\spislv
+Z5 w1428623371
+Z6 8SPI_SLAVE.v
+Z7 FSPI_SLAVE.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z9 !s108 1433849872.310000
+Z10 !s107 SPI_SLAVE.v|tb_spi.v|
+Z11 !s90 -work|work|-f|list.args|
+!s101 -O0
+Z12 o-work work -O0
+Z13 n@s@p@i_@s@l@a@v@e
+vtb_spi
+!i10b 1
+Z14 !s100 T;WYGbCBY^kRdo_nFJ8Lc0
+Z15 IYZV_mV20AfK^KDDRQ8RHK1
+Z16 V`cQW;?:TaT]mMA3X]k`322
+R4
+Z17 w1433632929
+Z18 8tb_spi.v
+Z19 Ftb_spi.v
+L0 4
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12

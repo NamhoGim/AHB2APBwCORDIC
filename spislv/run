@@ -1,0 +1,4 @@
+vlog -work work -f list.args
+vsim work.tb_spi
+vcd2wlf SPI_SLAVE.vcd SPI_SLAVE.wlf
+modelsim SPI_SLAVE.wlf

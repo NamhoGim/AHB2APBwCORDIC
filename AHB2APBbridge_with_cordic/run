@@ -1,0 +1,4 @@
+vlog -work work -f list.args
+vsim work.tb_ahb_lite
+vcd2wlf AHB_lite_verifi.vcd AHB_lite_verifi.wlf
+modelsim  AHB_lite_verifi.wlf
